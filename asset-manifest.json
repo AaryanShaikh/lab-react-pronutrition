@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lab-react-pronutrition/static/css/main.2cd78b2e.chunk.css",
+    "main.js": "/lab-react-pronutrition/static/js/main.8eae08e1.chunk.js",
+    "main.js.map": "/lab-react-pronutrition/static/js/main.8eae08e1.chunk.js.map",
+    "runtime-main.js": "/lab-react-pronutrition/static/js/runtime-main.f7819183.js",
+    "runtime-main.js.map": "/lab-react-pronutrition/static/js/runtime-main.f7819183.js.map",
+    "static/js/2.8084cf37.chunk.js": "/lab-react-pronutrition/static/js/2.8084cf37.chunk.js",
+    "static/js/2.8084cf37.chunk.js.map": "/lab-react-pronutrition/static/js/2.8084cf37.chunk.js.map",
+    "static/js/3.4cc3bc2c.chunk.js": "/lab-react-pronutrition/static/js/3.4cc3bc2c.chunk.js",
+    "static/js/3.4cc3bc2c.chunk.js.map": "/lab-react-pronutrition/static/js/3.4cc3bc2c.chunk.js.map",
+    "index.html": "/lab-react-pronutrition/index.html",
+    "static/css/main.2cd78b2e.chunk.css.map": "/lab-react-pronutrition/static/css/main.2cd78b2e.chunk.css.map",
+    "static/js/2.8084cf37.chunk.js.LICENSE.txt": "/lab-react-pronutrition/static/js/2.8084cf37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7819183.js",
+    "static/js/2.8084cf37.chunk.js",
+    "static/css/main.2cd78b2e.chunk.css",
+    "static/js/main.8eae08e1.chunk.js"
+  ]
+}
